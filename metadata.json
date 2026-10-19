@@ -1,0 +1,6 @@
+{
+  "name": "Synthetic User Research Platform",
+  "description": "AI-powered synthetic user research platform for product validation, synthetic student personas, simulated surveys, 1-on-1 interviews, and automated research synthesis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
